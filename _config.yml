@@ -123,8 +123,6 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-<<<<<<< HEAD
-=======
 related_blog_posts:
   enabled: true
   max_related: 5
@@ -156,7 +154,6 @@ external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
 
->>>>>>> 59308f4e8292a866beda7e80c8f317eb885d6405
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
