@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-13 
+date: 2015-10-22 15:59:00-0400
 inline: true
 ---
 
-I gave a oral presentation about my recent research at 2022 IEEE International Photonics Conference at Vancouver, Canada. 
+A simple inline announcement.
