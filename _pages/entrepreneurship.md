@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A collection of research projects.
+title: entrepreneurship
+permalink: /entrepreneurship/
+description: my entrepreneurship experience
 nav: True
-nav_order: 1
+nav_order: 5
 # display_categories: [work, fun]
 horizontal: false
 ---

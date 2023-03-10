@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 Howdy! Welcome to my space.
 
-I am currently a Ph.D. candidate at Brown University. My major is `electrical engineering`.  My Ph.D. advisor is <a href='https://vivo.brown.edu/display/anurmikk'>Arto Nurmikko</a>. 
+I am currently a Ph.D. candidate at Brown University. My major is `Electrical and Computer Engineering`.  My Ph.D. advisor is <a href='https://vivo.brown.edu/display/anurmikk'>Arto Nurmikko</a>. 
 
 I received my Sc.M. in Biomedical Engineering from Brown University and B.E. in Electronic Engineering from Zhejiang University, China. My research interests include neuroimaging, wearable medical devices, and brain-computer interfaces.
 
-Here is my [publications page](/al-folio/publications/) .
+Here is my [publications page](/nzhang1218/publications/) .
